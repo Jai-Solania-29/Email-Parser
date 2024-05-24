@@ -1,1 +1,1 @@
-# Email-Parser
+Email Parser

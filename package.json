@@ -1,0 +1,24 @@
+{
+  "name": "email-parser-tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@azure/msal-node": "^2.8.1",
+    "@microsoft/microsoft-graph-client": "^3.0.7",
+    "@types/node": "^20.12.12",
+    "bullmq": "^5.7.11",
+    "dotenv": "^16.4.5",
+    "googleapis": "^137.1.0",
+    "nodemailer": "^6.9.13",
+    "openai": "^4.47.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}
